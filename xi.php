@@ -21,7 +21,6 @@ function xiaomiCountry($imei)
         "Connection: keep-alive",
         "Content-Length: 20",
         "Content-Type: application/x-www-form-urlencoded",
-        "Cookie: _ot_use_type=1; hasReview=false; _ot_instance_id=9859f37f8baa3398c25a4225cda3063f; _ot_prev_uri_path=https://www.google.com/; _ot_ref_tip=; _ot_session_id=1609149198714; _ot_ref_b=44; _ot_last_source=; _ot_utm_type=; _ot_utm_channel=; _ot_utm_campaign=; _ot_utm_source=; _ot_utm_medium=; _ot_utm_term=; _ot_utm_content=; _ot_curr_uri_path=https://buy.mi.co.id/id/registration; _ot_referrer_path=; _ot_last_time=1609149349146; xmuuid=XMGUEST-F55153BD-7806-C131-5117-AE09F4973D9C; mstuid=1608639509934_7662; _ga=GA1.3.1564495142.1608639552; lastsource=buy.mi.co.id; msttime=https%3A%2F%2Fbuy.mi.co.id%2Fid%2Fregistration; msttime1=https%3A%2F%2Fbuy.mi.co.id%2Fid%2Fregistration; mstz=||1376181290.20|||; xm_vistor=1608639509934_7662_1609149198800-1609149353009",
         "Host: buy.mi.co.id",
         "Origin: https://buy.mi.co.id",
         "Referer: https://buy.mi.co.id/id/registration",
